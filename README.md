@@ -25,7 +25,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 API routes can be accessed on `http://localhost:3000/api/`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as API routes.
-atically optimize and load Inter, a custom Google Font.
 
 ## Deploy on Vercel
 
